@@ -2,7 +2,7 @@ import geo.utils as utils
 
 #calculate the length of c
 
-a, b = 3,4
+a, b = 3, 4
 c = utils.pythagoras(a, b)
 print("c = ", c)
 
